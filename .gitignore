@@ -1,0 +1,25 @@
+# Project exclude paths
+/.gradle/
+/Problems/Boxes/out/
+/Problems/Boxes/out/production/classes/
+/Problems/Desks/out/
+/Problems/Desks/out/production/classes/
+/Problems/Difference of times/out/
+/Problems/Difference of times/out/production/classes/
+/Problems/Good rest on vacation/out/
+/Problems/Good rest on vacation/out/production/classes/
+/Problems/Healthy sleep/out/
+/Problems/Healthy sleep/out/production/classes/
+/Problems/Hello, Kotlin/out/
+/Problems/Hello, Kotlin/out/production/classes/
+/Problems/Interval/out/
+/Problems/Interval/out/production/classes/
+/Problems/Knights/out/
+/Problems/Knights/out/production/classes/
+/Problems/N-th symbol/out/
+/Problems/N-th symbol/out/production/classes/
+/Problems/Print a string exactly ten times/out/
+/Problems/Print a string exactly ten times/out/production/classes/
+/Unit Converter/task/build/
+/Unit Converter/task/out/
+/Unit Converter/task/out/production/classes/
